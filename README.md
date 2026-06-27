@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm John Keanu Cadilo 👋
 
-<!--
-**JKCadilo14-CpE/JKCadilo14-CpE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student from the Philippines with interests in electronics, PCB design, embedded systems, and full-stack web development.
 
-Here are some ideas to get you started:
+## 💻 Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- C
+- Python
+- Java
+
+## 🔌 Electronics
+
+- KiCad PCB Design
+- Schematic Capture
+- PCB Fabrication
+- Circuit Prototyping
+- Electronics Troubleshooting
+
+## 🛠️ Tools
+
+- Git
+- GitHub
+- VS Code
+- XAMPP
+- Figma
+
+---
+
+## 📌 Featured Projects
+
+### DIY Circuits
+
+A collection of beginner-friendly KiCad projects with complete documentation, schematics, PCB layouts, and tested hardware.
+
+➡️ https://github.com/JKCadilo14-CpE/DIY-Circuits
+
+---
+
+### Cafe Ordering Website
+
+A restaurant ordering system built with PHP and MySQL featuring authentication, shopping cart, checkout, and an admin dashboard.
+
+➡️https://github.com/JKCadilo14-CpE/cafe-website-demo
+
+---
+
+### Capacitance Calculator
+
+An educational web application for learning capacitance through interactive calculators and explanations.
+
+➡️https://github.com/JKCadilo14-CpE/capacitance-calculator
+
+---
+
+## 🌱 Currently Learning
+
+- Responsive UI/UX
+- Advanced PHP
+- Git & GitHub
+- Node.js (next)
+- React (next)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/JKCadilo14-CpE
+- LinkedIn: www.linkedin.com/in/john-keanu-cadilo-955b75335
+
+---
+
+> "I enjoy building projects that combine electronics and software while continuously improving my engineering skills."
