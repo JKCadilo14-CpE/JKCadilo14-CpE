@@ -1,25 +1,38 @@
 # Hi, I'm John Keanu Cadilo 👋
 
-Computer Engineering student from the Philippines with interests in electronics, PCB design, embedded systems, and full-stack web development.
+Computer Engineering student from the Philippines passionate about electronics, PCB design, embedded systems, and full-stack web development. I enjoy building practical engineering projects that combine hardware and software while continuously improving my technical skills.
 
-## 💻 Programming
+## 💻 Software Development
+
+Languages
 
 - PHP
 - JavaScript
-- HTML
-- CSS
-- MySQL
-- C
+- C/C++
 - Python
 - Java
 
-## 🔌 Electronics
+Web
+
+- HTML
+- CSS
+- MySQL
+
+## ⚡ Electronics & PCB Design
 
 - KiCad PCB Design
 - Schematic Capture
 - PCB Fabrication
 - Circuit Prototyping
 - Electronics Troubleshooting
+
+## 🚀 Current Focus
+
+- Advanced PHP
+- Responsive UI/UX
+- KiCad PCB Design
+- Git & GitHub
+- Learning Node.js
 
 ## 🛠️ Tools
 
@@ -74,4 +87,5 @@ An educational web application for learning capacitance through interactive calc
 
 ---
 
-> "I enjoy building projects that combine electronics and software while continuously improving my engineering skills."
+> "I enjoy building projects that combine electronics and software while continuously improving my engineering skills.
+> I'm always learning and currently expanding my knowledge of Node.js, React, and IoT while continuing to build electronics and web development projects."
